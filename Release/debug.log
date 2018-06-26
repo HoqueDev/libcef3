@@ -1,0 +1,5 @@
+[0404/002554.546:ERROR:broker_win.cc(134)] Error sending sync broker message
+[0404/002554.546:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[0404/004438.554:ERROR:browser_gpu_channel_host_factory.cc(120)] Failed to launch GPU process.
+[0404/004440.834:ERROR:broker_win.cc(57)] Error reading broker pipe: The pipe has been ended. (0x6D)
+[0404/004440.834:ERROR:broker_win.cc(57)] Error reading broker pipe: The pipe has been ended. (0x6D)

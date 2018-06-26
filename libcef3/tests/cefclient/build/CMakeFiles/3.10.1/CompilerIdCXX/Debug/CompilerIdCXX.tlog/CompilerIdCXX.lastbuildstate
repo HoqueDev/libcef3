@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v141:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0.16299.0
+Debug|Win32|C:\Users\Maahi\Desktop\libcef3\cef-project\third_party\cef\cef_binary_3.3325.1756.g6d8faa4_windows32\tests\cefclient\build\CMakeFiles\3.10.1\CompilerIdCXX\|
